@@ -1,0 +1,9 @@
+{% for entry in entries %}
+        {% print(entry) %}
+        {% for key,value in list(entry.items()) %}
+            {% print(key,value) %}
+            <tr>
+                 <td>{{value}}</td>
+             </tr>
+        {% endfor %}
+    {% endfor %}

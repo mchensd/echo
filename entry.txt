@@ -1,0 +1,9 @@
+{
+    "amount_of_entries": 0,
+    "no_entries": {
+        "entries": 0
+    },
+    "with_entries": {
+        "entries": 0
+    }
+}
